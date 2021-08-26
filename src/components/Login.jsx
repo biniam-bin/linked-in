@@ -53,6 +53,7 @@ const SignIn = styled.a`
 	&:hover {
 		background-color: rgba(112, 181, 249, 0.15);
 		box-shadow: inset 0 0 0 2px #0a66c2;
+		cursor: pointer;
 	}
 `;
 
@@ -132,6 +133,7 @@ const Google = styled.button`
 		background-color: rgba(207, 207, 207, 0.25);
 		color: rgba(0, 0, 0, 0.75);
 		box-shadow: inset 0 0 0 2px rgb(0 0 0 / 60%), inset 0 0 0 3px rgb(0 0 0 / 0%), inset 0 0 0 2px rgb(0 0 0 / 0);
+		cursor: pointer;
 	}
 	img {
 		margin-right: 25px;
